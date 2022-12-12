@@ -1,7 +1,7 @@
 title:            Sarang's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //sarangshrivastava.github.io/
+url:              //koolzsam.github.io/
 #http://localhost:5000
 
 disqus_shortname: sarang
@@ -15,7 +15,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   linkedin: sarangshrivastava24
   google_scholar: YNZbKJ4AAAAJ&hl
-  github: SarangShrivastava
+  github: koolzsam
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
 google_verify:
